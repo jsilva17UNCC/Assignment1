@@ -15,8 +15,9 @@ In regards to the learning rate, several adjustments were made (and kept consist
 Problem 2 contains the same linear regression idea, but with multiple variables instead of just one independent variable. Several problems were encountered, and circumvented, during this portion: a lot of time was spent digging deeper into the Cost function of these models, all the regression lines do not seem to line up very well with all the values (X3, in this case, was chosen as the approximation factor.)
 
 With the linear regression model determined, predictions of the output are listed as follows, with h_theta(x) being the hypothesis formula given from this class:
-(X1,X2,X3) = (1,1,1) --> h_theta(x) --> 5.311-2.003(1)+0.533(1)-0.265(1) = 3.576
-(2,0,4) --> h_theta(x) --> 5.311-2.003(2)+0.533(0)-0.265(4) = 0.245
-(3,2,1) --> h_theta(x) --> 5.311-2.003(3)+0.533(2)-0.265(1) = 0.103
+
+(X1,X2,X3) = (1,1,1) --> 5.311-2.003(1)+0.533(1)-0.265(1) = **3.576**  
+(2,0,4) --> 5.311-2.003(2)+0.533(0)-0.265(4) = **0.245**  
+(3,2,1) --> 5.311-2.003(3)+0.533(2)-0.265(1) = **0.103**  
 
 Perhaps these values do not accurately represent the data, but this homework assignment has proven nonetheless to be a learning experience from a Novice Python programmer (this author)
