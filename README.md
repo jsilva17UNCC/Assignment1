@@ -21,3 +21,5 @@ With the linear regression model determined, predictions of the output are liste
 (3,2,1) --> 5.311-2.003(3)+0.533(2)-0.265(1) = **0.103**  
 
 Perhaps these values do not accurately represent the data, but this homework assignment has proven nonetheless to be a learning experience from a Novice Python programmer (this author)
+
+Github Repository link: https://github.com/jsilva17UNCC/Assignment1
